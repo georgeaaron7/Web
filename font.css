@@ -23,8 +23,8 @@ body{
 }
 nav{
     display: flex;
-    align-items: center; /* Corrected the typo here */
-    justify-content: flex-end; /* Aligns the items to the right */
+    align-items: center; 
+    justify-content: flex-end; 
     flex-wrap: wrap;
 }
 nav ul li{
@@ -102,23 +102,16 @@ nav ul li a:hover::after{
 .about-col-2 p span{
     color:#FBE9D0;
 }
-
-
-
-
-
-
 /* education */
 #education {
     padding: 30px 0;
-    /* background-color: #112e42; Dark blue background */
-    color: #ededed; /* Light text color */
+    color: #ededed; 
 }
 
 .sub-title {
     font-size: 40px;
     font-weight: 600;
-    color: #E64833; /* Red color for the title */
+    color: #E64833; 
     margin-bottom: 40px;
 }
 
@@ -129,7 +122,7 @@ nav ul li a:hover::after{
 }
 
 .education-logo {
-    width: 120px; /* Adjust as needed */
+    width: 120px; 
     height: auto;
     margin-right: 20px;
 }
@@ -138,20 +131,20 @@ nav ul li a:hover::after{
     font-size: 24px;
     margin-bottom: 5px;
     margin-top: 5px;
-    color: #FBE9D0; /* White color for institution names */
+    color: #FBE9D0; 
 }
 
 .education-details p {
     font-size: 16px;
     margin: 0;
-    color: #ababab; /* Slightly lighter text for details */
+    color: #ababab; 
 }
 
 .education-details h3{
     font-size: 24px;
     margin-bottom: 5px;
     margin-top: 10px;
-    color: #FBE9D0; /* White color for institution names */
+    color: #FBE9D0; 
 }
 
 #projects h2{
